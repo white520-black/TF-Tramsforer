@@ -1,0 +1,6 @@
+# Tested with Python 3.12. CPU is supported; install a matching CUDA torch wheel for GPU if desired.
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.8.0
+joblib==1.5.1
+torch==2.7.0
