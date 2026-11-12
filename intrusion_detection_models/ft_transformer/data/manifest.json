@@ -1,0 +1,18 @@
+{
+  "UNSW_NB15_training-set.csv": {
+    "bytes": 32293018,
+    "sha256": "bec7dd5ec88dc2a0ccc7a07879d338395ed7421750f675fd0339e07dfe0648fa"
+  },
+  "UNSW_NB15_testing-set.csv": {
+    "bytes": 15380800,
+    "sha256": "734fe6642edf758f7c94d7d9149426b49d202fe8e7bf0bef47392489c3c0a559"
+  },
+  "NUSW-NB15_features.csv": {
+    "bytes": 4044,
+    "sha256": "c55f19cceebb6360dc50f44f8a5f246ccefbcf8a6c604ac1ad46e643869cafce"
+  },
+  "The UNSW-NB15 description.pdf": {
+    "bytes": 189112,
+    "sha256": "20784d87509db0185b5d816f01a4ea04e60be180798e2d38cabb500f6dd13999"
+  }
+}
